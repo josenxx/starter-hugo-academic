@@ -29,9 +29,13 @@ feature:
   icon_pack: fas
   name: Building Information Modeling
 - description:
-  icon: laptop-code
+  icon: laptop-code 
   icon_pack: fas
   name: Natural Language Processing
+- description:
+  icon: draw-polygon 
+  icon_pack: f5ee
+  name: Visualization
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
