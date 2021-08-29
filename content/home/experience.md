@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Rresearch Assistant
-    company: AutuIC Lab
+    company: AutoIC Lab
     company_url: 'https://polytechnic.purdue.edu/autoic-lab'
     company_logo: autoic
     location: West Lafayette, Indiana
@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: |2-
         Research Project Participation:
-          PFI-RP: Automating Building Code Compliance Checking and Modular Construction Through Interoperable Building Information Modeling Technology (Award Number: 1827733)  
-          * Investigated Part-of-Speech (POS) tagging of building codes using Natural Language Processing (NLP) techniques
-          * Collected POS tagging results of different POS taggers and human annotators on building codes
-          * Created a database of POS-tagged building codes, called Part-of-Speech Tagged Building Codes Dataset (PTBC)
-          * Resolved the problem that POS taggers that were developed on general English have under-desired performance on building codes by developing a technique called error-driven transformational rule
-          * Adapted deep learning models and combined them with error-driven transformational rule to develop a POS tagger that is tailored for building codes
-          * Expanded range of checkable building codes of automated code compliance checking system with minimal marginal effort by adding new rules to existing ruleset
-          * Implemented a rule-based method to extract cross-references and hierarchical structure in building
+        PFI-RP: Automating Building Code Compliance Checking and Modular Construction Through Interoperable Building Information Modeling Technology (Award Number: 1827733)  
+        * Investigated Part-of-Speech (POS) tagging of building codes using Natural Language Processing (NLP) techniques
+        * Collected POS tagging results of different POS taggers and human annotators on building codes
+        * Created a database of POS-tagged building codes, called Part-of-Speech Tagged Building Codes Dataset (PTBC)
+        * Resolved the problem that POS taggers that were developed on general English have under-desired performance on building codes by developing a technique called error-driven transformational rule
+        * Adapted deep learning models and combined them with error-driven transformational rule to develop a POS tagger that is tailored for building codes
+        * Expanded range of checkable building codes of automated code compliance checking system with minimal marginal effort by adding new rules to existing ruleset
+        * Implemented a rule-based method to extract cross-references and hierarchical structure in building
 
 
   - title: Teaching Assistant
