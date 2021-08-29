@@ -1,6 +1,6 @@
 ---
 title: Xiaorui Xue
-role: Ph.D candidate at Purdue University
+role: Ph.D candidate
 bio: "My research interests include "
 interests:
   - Artificial Intelligence
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Purdue University
+    url: https://www.purdue.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
