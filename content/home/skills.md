@@ -28,10 +28,10 @@ feature:
   icon: laptop-code 
   icon_pack: fas
   name: Natural Language Processing
-# - description:
-#   icon: microsoft
-#   icon_pack: f3ca
-#   name: Microsoft Office
+- description:
+  icon: microsoft
+  icon_pack: f3ca
+  name: Microsoft Office
 - description:
   icon: chalkboard-teacher
   icon_pack: fas
