@@ -31,14 +31,15 @@ experience:
     date_end: ''
     description: |2-
         Research Project Participation:
-        PFI-RP: Automating Building Code Compliance Checking and Modular Construction Through Interoperable Building Information Modeling Technology (Award Number: 1827733)  
-        * Investigated Part-of-Speech (POS) tagging of building codes using Natural Language Processing (NLP) techniques
-        * Collected POS tagging results of different POS taggers and human annotators on building codes
-        * Created a database of POS-tagged building codes, called Part-of-Speech Tagged Building Codes Dataset (PTBC)
-        * Resolved the problem that POS taggers that were developed on general English have under-desired performance on building codes by developing a technique called error-driven transformational rule
-        * Adapted deep learning models and combined them with error-driven transformational rule to develop a POS tagger that is tailored for building codes
-        * Expanded range of checkable building codes of automated code compliance checking system with minimal marginal effort by adding new rules to existing ruleset
-        * Implemented a rule-based method to extract cross-references and hierarchical structure in building
+        PFI-RP: Automating Building Code Compliance Checking and Modular Construction Through Interoperable Building Information Modeling Technology (Award Number: 1827733)
+        * Collected POS tagging result of POS taggers for general English on building codes
+        Developed ruleset expansion method to expand range of checkable building code requirements of ACC systems
+        * Developed a method to extract and interactively visualize hierarchical and cross-reference structure
+
+        Convergence Accelerator Phase I (RAISE): Civil Infrastructure Systems Open Knowledge Network (CIS-OKN) (Award Number: 1937115)
+        * Collected data of civil infrastructure assessments from State Department of Transportations (DOTs)
+        * Collected data for the generation of a construction domain ontology
+
 
 
   - title: Teaching Assistant
