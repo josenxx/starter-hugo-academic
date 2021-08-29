@@ -34,7 +34,7 @@ feature:
   name: Microsoft Office
 - description:
   icon: chalkboard-teacher
-  icon_pack: f51c
+  icon_pack: fas
   name: Electronic Class Management System
 
 # Uncomment to use emoji icons.
