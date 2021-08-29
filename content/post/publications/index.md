@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: List of Publications
 date: 2021-08-29T22:05:59.315Z
 draft: false
 featured: false
