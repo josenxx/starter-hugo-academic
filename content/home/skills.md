@@ -23,19 +23,19 @@ feature:
 - description: 
   icon: robot
   icon_pack: fas
-  name: Artificial Intelligence
-- description:
-  icon: laptop-house
-  icon_pack: fas
-  name: Building Information Modeling
+  name: Deep Learning
 - description:
   icon: laptop-code 
   icon_pack: fas
   name: Natural Language Processing
 - description:
-  icon: draw-polygon 
-  icon_pack: f5ee
-  name: Visualization
+  icon: microsoft
+  icon_pack: f3ca
+  name: Microsoft Office
+- description:
+  icon: chalkboard-teacher
+  icon_pack: f51c
+  name: Electronic Class Management System
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
