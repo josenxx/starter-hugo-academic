@@ -40,9 +40,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a Ph.D. candidate at Purdue University in Construction Management Technology in the Polytechnic Institute. I am now pursuing a Ph.D. with Dr. Jiansong Zhang. My anticipated graduation date is June 2022. I am writing to express my interest in the tenure-track faculty position of Assistant Professor. My research interest is focused on increasing the degree of automation in construction activities by developing computational methods and tools. My dissertation research addresses the conversion of natural language building codes from natural language to a computer-processable, formal, and structured format for a BIM-based Automated Code Compliance (ACC) system.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
